@@ -2,6 +2,8 @@ JavaBeans are reusable software component written in java.The components can be 
 
 1.Class is serializable
 
-2.class has a 0 argument constructor
+2.Class has a 0 argument constructor
 
-3.class has getter and setter methods for data members
+3.Class has getter and setter methods for data members
+
+4.Implement methods for event handling
